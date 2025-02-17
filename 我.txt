@@ -1,1 +1,16 @@
 happy happy happy
+
+好好好，今天学会了git和github之间的互传。。。
+
+简简单单的操作学了一整天啊啊啊，服了。。
+
+好吧记录一下，记录本更新完要记得保存啊喂！
+
+先在Githun上创建Repository
+然后git clone + 网址 （这样就会保存到本地了）
+然后git add .
+然后git commit -m"说明信息"
+然后git push valientine main
+就上传到远程端去了
+
+ps. 不知道为啥校园网没法上传，防火墙吗？？
